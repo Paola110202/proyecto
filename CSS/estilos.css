@@ -1,0 +1,110 @@
+#cuerpo {
+    background-color: #944E63;
+    font-family: cursive;
+    color: #CAA6A6;
+}
+
+h1 {
+    border: 3px;
+    padding-bottom: 8px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #FF90BC;
+}
+
+h2 {
+    border: 3px;
+    padding-bottom: 8px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #B47B84;
+}
+
+h3 {
+    border: 3px;
+    padding-bottom: 8px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #B47B84;
+}
+
+#texto-encabezado {
+    background-color: #FFE7E7;
+    color: #B47B84;
+    font-size: medium;
+}
+
+.texto {
+    background-color: #FFE7E7;
+    color: #944E63;
+    font-size: medium;
+    padding: 10px;
+    margin: 3px;
+    text-align: center;
+    border: 4cm;
+
+}
+
+#contenido{
+    text-align: justify;
+   
+}
+
+#imagen {
+    background-color: #FFC0D9;
+    text-align: end;
+    width: 800px;
+}
+
+.imagen {
+    background-color: #FFC0D9;
+    padding-bottom: 0%;
+    padding: 20px;
+    border: 3ch;
+    text-align: end;
+    width: 300px;
+}
+.styled-table{
+    border-collapse: collapse;
+    margin: 20px;
+    text-align: center;
+    color: #F9F9E0;
+}
+
+.styled-table thead tr{
+    background-color: #B47B84;
+    color: #944E63;
+    
+}
+.styled-table tbody tr{
+    background-color: #F9F9E0;
+    color: #944E63;
+    
+}
+#img-link{
+    background-color: #B47B84;
+    padding-bottom: 0%;
+    padding: 20px;
+    border: 3ch;
+    text-align: end;
+    width: 300px;
+}
+.navbar{
+    background-color:#B47B84 ;
+    
+}
+a:link{
+    color: #B47B84;
+}
+a:hover{
+    color:#944E63;
+}
+a:visited{
+    color: #944E63;
+}
+a:active{ 
+    color: #944E63;
+}
+.nav link{
+    color: #944E63;
+}
+
+
+
